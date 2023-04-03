@@ -1,0 +1,26 @@
+index of array from zero
+function name 
+
+faliuare   ->     i am not sure what is the failure.
+fault    ->       fault is that the i = 1
+error    ->       internal state the changes during the runtime tha expected value doesnt equal the result
+
+
+
+
+what is the difference between varification and validation:-
+
+*) validation : i am doing the rigth thing
+*) verification : i am doing the right thing right ( i am using the right techniques and the right methods ) 
+
+for having maipulation on the arry i should know spaciification about the array , in this case when i use the array i am surely using the right spacifications of the array , in the right way .
+
+verification is to make internal states , is working on the right way.
+
+
+1)verification : is checking that the password has no special chars.
+2)validation : its for output , the final product
+
+
+
+

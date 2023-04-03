@@ -1,0 +1,20 @@
+public static Vector_union(Vector a , Vector ){
+
+}
+
+
+
+
+
+before i write my testcases ,
+the function has ambiguity ,
+but we have to ask some questions ,
+so we can understand the product in the good way,
+
+
+to answer the archloch is saying
+1)no duplicates
+null is allowed
+sortes yes
+different length (unbounded)
+test union function

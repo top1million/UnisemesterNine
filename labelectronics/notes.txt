@@ -1,0 +1,37 @@
+
+
+Dear students
+These links contain a download link for the PSpice student edition.
+
+http://www.mediafire.com/download/r92ihw60d1x7wur/PSpice%209.1%20Student%20edition.rar
+
+  or   
+
+To download PSPICE 9.1 student version, visit the following link:
+
+http://www.electronics-lab.com/downloads/circutedesignsimulation/\?page\=5
+
+You will find a list of programs, scroll down to the end of the page until you see PSPICE 9.1 Student Version, then click download.  The setup is straight forward, however, in case you needed help check the following video and follow steps.
+
+https://www.youtube.com/watch\?v\=tCFjjHY94Ro
+
+ 
+
+when you install the program, do not forget to download schematics, otherwise, it might not work.
+
+check the screenshots in the attached file.
+
+when you start the program start schematics, not capture.
+
+ please check attached files
+
+ 
+
+ YouTube lectures
+
+ https://www.youtube.com/watch\?v\=7dzITvGdM1c\&t\=3s
+
+ https://www.youtube.com/watch\?v\=95OJrRU9WZc
+
+ 
+

@@ -1,0 +1,20 @@
+native is better :-
+1) abality to reach sensors
+2) better ui and ux
+3) performance , because the ability to use the local storage
+
+
+
+
+*)the crossplateforms , just give us the basic features.
+in new features in the natives , you have to wait for the cross to update the extension.
+
+
+*) burst attention :-
+thus it has to be very simple and not  very complicated
+so it has to be very easy to use 
+because the screen is small
+the user is not giving full attention
+the mobile app has to be inittiative ( badehee)
+
+
