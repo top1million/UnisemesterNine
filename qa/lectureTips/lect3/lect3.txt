@@ -1,0 +1,15 @@
+criteria based testing 
+
+
+tr = testing requirment
+desgin test cases that meets the TR
+
+
+
+TR : test path (t,t2,t3,....tn)
+NC : Tr needs to meet the node coverage.
+EC : Tr needs to meet the edge coverage.
+EPR : Tr needs to meet the edge pair coverage.
+PPR : Tr needs to meet the prime pair coverage.
+
+DFC :
