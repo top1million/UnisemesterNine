@@ -1,0 +1,21 @@
+#include  <stdio.h>
+#include  <stdlib.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <sys/wait.h>
+int x=10;
+int main()
+{
+        if(fork()==0)
+        {
+                printf("In child process:%d  My parent:%d\n",getpid(),getppid());
+                sleep(3);
+                printf("In child process:%d  My parent:%d\n",getpid(),getppid());
+        }
+        else
+        {
+                printf("In parent process:%d\n",getpid());
+                sleep(1);
+        }
+
+}

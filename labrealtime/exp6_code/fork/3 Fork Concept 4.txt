@@ -1,0 +1,19 @@
+#include  <stdio.h>
+#include  <stdlib.h>
+#include <sys/types.h>
+#include <unistd.h>
+#include <sys/wait.h>
+int x=10;
+int main()
+{
+        if(fork()==0)
+        {       x=50;
+                printf("In child process%d\n",x);
+        }
+        else
+        {       sleep(5);
+                printf("In parent process%d\n",x);
+                wait(NULL);
+        }
+
+}
