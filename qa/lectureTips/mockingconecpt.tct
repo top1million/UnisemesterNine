@@ -1,0 +1,9 @@
+Mocking concept has 4 pillars : 
+1) Fake   : implementing for objects that are going to be used in the testing.
+2) Mock  : when using mockito to make the mock interface.
+3) Stub  :  
+4) Spy   :  
+
+
+There are 2 framewroks crossloader and proxy  .
+mockito uses proxy , crossloader for example we have powerMock
